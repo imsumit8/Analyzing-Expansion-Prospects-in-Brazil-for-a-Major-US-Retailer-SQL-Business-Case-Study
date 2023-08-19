@@ -1,5 +1,42 @@
-# Analyzing-Expansion-Prospects-in-Brazil-for-a-Major-US-Retailer-SQL-Business-Case-Study
-Report on one of the Largest Retailer in US who is starting it's operations in Brazil: SQL Business Case
-[Link to BigQuery Query]("https://console.cloud.google.com/bigquery?sq=1080338476180:8b6806ab0efa40099ca1e30788cb5ff3")
-+ copy the query_codes.sql to google BigQuery and run all the queries to get the result.
-+ For recommendations and insights from the query you can refer to the RETAIL_SQL_BUISNESS_CASE.pdf file.
+# SQL Business Case: Analyzing Expansion Prospects in Brazil for a Major US Retailer
+
+## Overview
+
+Welcome to the README for the SQL Business Case project titled "Analyzing Expansion Prospects in Brazil for a Major US Retailer." This project aims to give efficient and meaningful insights to help the clint expanse in Brazil. The SQL queries included in this repository are designed to help answer key business questions related to the business problem.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Queries](#queries)
+- [Results](#results)
+- [Contributing](#contributing)
+
+
+## Getting Started
+
+Generate an account and open the workfile within Google BigQuery and acquire the required CSV files. Regrettably, I cannot distribute the project files due to privacy constraints.
+
+## Queries
+
+In this section, you'll find SQL queries that address specific business questions. Each query file is accompanied by comments explaining the purpose of the query, the tables involved, and any assumptions made.
+
+- [Query 1](query_codes.sql)
+
+
+
+## Results
+[RESULT](RETAIL_SQL_BUSINESS_CASE.pdf)
+
+
+## Contributing
+
+You can create other queries and get more insights from the data to help the business in their expansion.
+
+
+
+---
+
+Feel free to explore the SQL queries and results included in this repository. If you have any questions or suggestions, please don't hesitate to open an issue or submit a pull request.
+
+Happy querying!
+
